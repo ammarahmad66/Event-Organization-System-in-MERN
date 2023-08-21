@@ -1,0 +1,9 @@
+.alternate-date {
+    background-color: darkred;
+    color: white;
+  }
+  
+  .disabled {
+    opacity: 0.5;
+    pointer-events: none;
+  }
